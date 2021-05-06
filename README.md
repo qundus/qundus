@@ -18,16 +18,19 @@ Lately I'm intrigued by how open-source projects and the collaboration community
 <br />
 
  ``I've Experienced``
+ <br />
 <code>C++</code><code>C#</code><code>Java</code><code>JS</code><code>AS</code><code>Bash</code>
 <br />
 
 ``I'm Learning``
+<br />
 <code>Objective C</code><code>Python</code><code>Dart</code>
 
 **Frameworks and IDEs:**
 <br />
 
 ``I've Experienced``
+<br />
 <a href="https://nodejs.org/en/">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </a>
@@ -49,6 +52,7 @@ Lately I'm intrigued by how open-source projects and the collaboration community
 <br />
 
 ``I'm Learning``
+<br />
 <a href="https://www.djangoproject.com/">
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.zmeJdeXeNbu8qd2q5hyc8wAAAA%26pid%3DApi&f=1"></code>
 </a>
