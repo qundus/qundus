@@ -2,15 +2,12 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=cypherskar.cypherskar)
+[visitors-shield]: https://visitor-badge.glitch.me/badge?page_id=cypherskar.cypherskar
+![visitors-shield]
 
 <br />
 
-Hi, I'm an ambitious software engineer and game developer from the land of Sudan. My passion for software lies with dreaming up challenging ideas 
-and making them come true with optimized performance and beautiful designs. I take great pleasure in attending to all aspects of any given project 
-to deliver top-tier products.
-
-Lately I'm intrigued by how open-source projects and the collaboration community work, and I intend to learn as much as I can from everyone.
+Hi, I'm an ambitious software engineer and game developer from the land of Sudan. My passion for software lies with dreaming up challenging ideas and making them come true with optimized performance and beautiful designs. I take great pleasure in attending to all aspects of any given project to deliver top-tier products. Lately I'm intrigued by how open-source projects and the collaboration community work, and I intend to learn as much as I can from everyone.
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/ekjmhJUGHJm7FC4Juo/200w.webp?cid=ecf05e47dw50dhyoi2fp0q4fs5tnj4iq0qcw3cmnynz1rlsl&rid=200w.webp&ct=g" width="500" height="320" />
 
