@@ -11,19 +11,15 @@ Hi, I'm an ambitious software engineer and game developer from the land of Sudan
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/ekjmhJUGHJm7FC4Juo/200w.webp?cid=ecf05e47dw50dhyoi2fp0q4fs5tnj4iq0qcw3cmnynz1rlsl&rid=200w.webp&ct=g" width="500" height="320" />
 
-**Languages:**
-<br />
+#### Languages
+> #### I Had Fun With:
+> C++, C#, Java, Javascript, Actionscript, Bash.
+>
+> #### Next Opponents:
+> Objective C, Python, Dart.
 
- ``I've Experienced``
- <br />
-<code>C++</code><code>C#</code><code>Java</code><code>JS</code><code>AS</code><code>Bash</code>
-<br />
-
-``I'm Learning``
-<br />
-<code>Objective C</code><code>Python</code><code>Dart</code>
-
-**Frameworks and IDEs:**
+#### Frameworks and IDEs
+****
 <br />
 
 ``I've Experienced``
