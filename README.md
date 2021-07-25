@@ -3,11 +3,11 @@
 
 <!-- top -->
 <a href="https://www.linkedin.com/in/eslam-sharif/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="skardevo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!-- can't use reference style for this badge -->
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=cypherskar&repo=cypherskar&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=skardevo&repo=skardevo&countColorcountColor&countColor=%237B1E7A)
 
 
 <!-- description -->
@@ -17,6 +17,6 @@ Hi, I'm an ambitious software engineer and game developer from the land of Sudan
 
 <p align="center">
 <img 
-     src="https://github-readme-stats.vercel.app/api?username=cypherskar&show_icons=true&theme=gotham" alt="cypherskar" 
+     src="https://github-readme-stats.vercel.app/api?username=skardevo&show_icons=true&theme=gotham" alt="skardevo" 
      width="500" height="320"/>
   </p>
