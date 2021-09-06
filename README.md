@@ -1,24 +1,30 @@
+<!-- Links for better READMEs -->
+<!-- https://dev.to/tolentinoel/show-your-style-on-your-github-readme-2129 -->
+<!-- https://placeholder.com -->
+
 <!-- variables -->
-[resume]: https://docviewer.yandex.com/view/1396694816/?*=fP76UHXXKinM9s0m2w8MpSgqc%2B17InVybCI6InlhLWRpc2s6Ly8vZGlzay9DdXJyaWN1bHVtIFZpdGFlIChZYW5kZXguRGlzaykvUmVzdW1lL3Y0XzIwMjEvY3ZfdjQucGRmIiwidGl0bGUiOiJjdl92NC5wZGYiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjEzOTY2OTQ4MTYiLCJ0cyI6MTYyMDMzOTc0MDg1OCwieXUiOiI3OTU5MzEzNTE2MTYxNzI2NTgifQ%3D%3D
 
 <!-- top -->
+<div align="center" justify="center">
 <a href="https://onett.pages.dev">
-  <img align="left" alt="onett's site" width="22px" src="logo.svg" />
+  <img align="center" alt="onett's site" width="33px" src="logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eslam-sharif/">
-  <img align="left" alt="onett's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" justify="center" alt="onett's LinkedIN" width="33px" src="linkedin.svg" />
 </a>
-
-
-<!-- can't use reference style for this badge -->
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=skardevo&repo=skardevo&countColorcountColor&countColor=%237B1E7A)
-
+<div/>
 
 <!-- description -->
-<br />
-
-I dedicate my life to technologies of all sorts and the betterment of human life.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onettmecha&show_icons=true&theme=gotham" alt="onettmecha"/>
-</p>
+---
+  
+I dedicate my life to technologies of all sorts and the betterment of human life
+  
+---
+ 
+<!-- stats -->
+<a href="https://github.com/onettmecha/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onettmecha&theme=onedark" />
+</a>
+<a href="https://github.com/onettmecha/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=onettmecha&show_icons=true&theme=onedark&count_private=true" />
+</a>
