@@ -3,7 +3,7 @@
 
 <!-- top -->
 <a href="https://www.linkedin.com/in/eslam-sharif/">
-  <img align="left" alt="skardevo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="onett's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!-- can't use reference style for this badge -->
@@ -13,10 +13,8 @@
 <!-- description -->
 <br />
 
-Hi, I'm an ambitious software engineer and game developer from the land of Sudan. My passion for software lies with dreaming up challenging ideas and making them come true with optimized performance and beautiful designs. I take great pleasure in attending to all aspects of any given project to deliver top-tier products. Lately I'm intrigued by how open-source projects and the collaboration community work, and I intend to learn as much as I can from everyone.
+I dedicate my life to technologies of all sorts and the betterment of human life.
 
 <p align="center">
-<img 
-     src="https://github-readme-stats.vercel.app/api?username=skardevo&show_icons=true&theme=gotham" alt="skardevo" 
-     width="500" height="320"/>
-  </p>
+<img src="https://github-readme-stats.vercel.app/api?username=onettmecha&show_icons=true&theme=gotham" alt="onettmecha"/>
+</p>
