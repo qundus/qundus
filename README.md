@@ -23,8 +23,8 @@ I dedicate my life to technologies of all sorts and the betterment of human life
  
 <!-- stats -->
 <a href="https://github.com/onettmecha/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onettmecha&theme=onedark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neod3v&theme=onedark" />
 </a>
 <a href="https://github.com/onettmecha/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=onettmecha&show_icons=true&theme=onedark&count_private=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=neod3v&show_icons=true&theme=onedark&count_private=true" />
 </a>
